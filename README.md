@@ -5,7 +5,7 @@ Spatial Analysis with London Crimes data
 
 ### How does it work ?
 
-<b>Uber Time Series</b> Everything is on the title ;).
+<b>Spatial Analysis with London Crimes data</b> Everything is on the title ;).
 <li>Load Data</li>
 <li>Clean Data</li>
 <li>First Visualization</li>
